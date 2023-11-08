@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EwalletApi</name>
+    </assembly>
+    <members>
+        <member name="M:EwalletApi.Controllers.UserAccessController.Login(UserAccessLoginFormModel)">
+            <summary>
+            this is to login if successful will return a list of Users
+            </summary>
+            <param name="req">
+            </param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
